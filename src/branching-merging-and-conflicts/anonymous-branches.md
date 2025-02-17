@@ -51,7 +51,7 @@ Let's see how this works.
 ## Creating two branches from the same commit
 
 Run `jj st`, and make sure your working copy is at an empty change. If not,
-use `jj new` to create one. We want to start from a blank slate here.
+use `jj new` to create one. We want to start from a blank state here.
 
 ```console
 $ jj new
